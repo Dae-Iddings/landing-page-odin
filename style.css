@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    color: white;
+    font-size: large;
+}
+
+.logo {
+    color: white;
+    font-size: x-large;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
