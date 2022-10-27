@@ -69,3 +69,7 @@ button {
     width: 132px;
     font-size: 24px;
 }
+
+body {
+    margin: 0;
+}
