@@ -7,8 +7,6 @@
 
 li {
     list-style: none;
-    color: white;
-    font-size: large;
 }
 
 .logo {
@@ -25,4 +23,10 @@ ul {
     display: flex;
     justify-content: space-evenly;
     gap: 10px;
+}
+
+a {
+    color: white;
+    font-size: large;
+    text-decoration: none;
 }
