@@ -106,3 +106,22 @@ h2 {
     font-weight: 800;
     padding: 20px;
 }
+
+.meat {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.att {
+    text-align: center;
+    margin: 50px;
+}
+
+section {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
