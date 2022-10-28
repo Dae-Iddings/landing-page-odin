@@ -62,7 +62,7 @@ a {
     font-size: 18px;
 }
 
-button {
+.button-top {
     background-color: #3883F6;
     color: white;
     border-radius: 25px;
